@@ -1,7 +1,7 @@
 # Halo semua👋! 
 Perkenalkan nama saya **Siswadi Perdana Putra**.\
 Saya seorang **Mahasiswa Semester 3** di Muhammadiyah University of Surakarta.\
-Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga Data Science.\
+Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga Data Science
  
 <p align="left">
 <a href="https://github.com/Siswadi24">
