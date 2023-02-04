@@ -11,6 +11,8 @@ Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga ling
 </p>
 
 
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/linktree-%23E4405F.svg?logo=linktree&logoColor=white)](https://linktr.ee/BangPutra32?fbclid=PAAaZxbUYCtzULkKMWDruyHpPhDua6nujDUQ06SXuuX4D6Ja6TYSBQO4q9bHM)
 
 
 
