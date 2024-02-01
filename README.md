@@ -24,8 +24,8 @@ Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga ling
 
  Other :
  - 👋 ================ HELLO ========================
-- 👀 I’m interested in Programmer and Innovation technology spesially AI, and Data Science
-- 🌱 I’m currently learning JavaScript and Python languages
+- 👀 I’m interested in Programmer and Innovation technology spesially AI, Mobile App, and Data Science
+- 🌱 I’m currently learning Dart languages and Flutter Framework
 - 💞️ I’m looking to collaborate on Innovation and development technology in Indonesia
 - 📫 How to reach me I have Instagram : dana.perdanaputra_
 - 🧑‍💻 My Hobbies are Playing games and sports
