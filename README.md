@@ -3,12 +3,12 @@ Perkenalkan nama saya **Siswadi Perdana Putra**.\
 Saya seorang **Mahasiswa** di Muhammadiyah University of Surakarta.\
 Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga lingkungan Software atau mobile
  
-<p align="left">
-<a href="https://github.com/Siswadi24">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siswadi24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Siswadi24&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Siswadi24&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Siswadi24&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siswadi24&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Siswadi24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
