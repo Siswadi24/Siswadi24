@@ -1,6 +1,6 @@
 # Halo semua👋! 
 Perkenalkan nama saya **Siswadi Perdana Putra**.\
-Saya seorang **Mahasiswa** di Muhammadiyah University of Surakarta.\
+Saya seorang **FreshGraduate** dari Muhammadiyah University of Surakarta.\
 Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga lingkungan Software atau mobile
  
 ![](https://github-readme-stats.vercel.app/api?username=Siswadi24&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
