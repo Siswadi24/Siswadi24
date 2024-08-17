@@ -1,7 +1,7 @@
 # Halo semua👋! 
 Perkenalkan nama saya **Siswadi Perdana Putra**.\
 Saya seorang **FreshGraduate** dari Muhammadiyah University of Surakarta.\
-Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga lingkungan Software atau mobile
+Saya sedang belajar dan mendalami tentang Teknologi Web Development dan juga lingkungan Software atau mobile
  
 ![](https://github-readme-stats.vercel.app/api?username=Siswadi24&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Siswadi24&theme=react&hide_border=false)<br/>
@@ -24,8 +24,8 @@ Saya sedang belajar dan mendalami tentang Teknologi Cloud Back-End dan juga ling
 
  Other :
  - 👋 ================ HELLO ========================
-- 👀 I’m interested in Programmer and Innovation technology spesially AI, Mobile App, and Data Science
-- 🌱 I’m currently learning Dart languages and Flutter Framework
+- 👀 I’m interested in Programmer and Innovation technology spesially AI, Mobile App, and Cyber Security
+- 🌱 I’m currently learning Dart languages, PHP languages, Laravel Framework, and Flutter Framework
 - 💞️ I’m looking to collaborate on Innovation and development technology in Indonesia
 - 📫 How to reach me I have Instagram : dana.perdanaputra_
 - 🧑‍💻 My Hobbies are Playing games and sports
